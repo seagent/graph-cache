@@ -5,9 +5,6 @@
 	<groupId>Seagent</groupId>
 	<artifactId>GraphCache</artifactId>
 	<version>0.0.1-2018.11.05</version>
-	<packaging>jar</packaging>
-	<name>GraphCacheProject</name>
-	<url>http://maven.apache.org</url>
 	<dependencies>
 		<dependency>
 			<groupId>junit</groupId>
